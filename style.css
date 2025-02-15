@@ -1,0 +1,48 @@
+/* *{
+    border: 1px solid red;
+} */
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg-image {
+    background-image: url('catch-em-all.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0 4px 0 8px rgba(0,0,0,0.8);
+    background-color: rgba(0, 255, 255, 0.193);
+}
+
+.content {
+    color: beige;
+}
+
+.background {
+    background-image: url('charizard.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
